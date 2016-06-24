@@ -1,0 +1,68 @@
+/* CSS Document */
+.st0{fill:#008277;}
+.st1{fill:#F2955C;}
+.st2{fill:url(#SVGID_1_);}
+.st3{fill:#FFFFFF;}
+.st4{fill:#CCD1D9;}
+.st5{fill:url(#SVGID_2_);}
+.st6{fill:#EFEFF0;}
+.st7{fill:#FF9545;}
+.st8{fill:#848A93;}
+.st9{fill:#E6E9ED;}
+
+
+svg {
+	width:500px;
+	height:500px;
+}
+
+#wifi2,#wifi3,#wifi_1_,#wifi2_1_,#wifi3_1_{
+	display:none;
+	}
+
+#logo.clickit #wifi_1_ {
+	display:block;
+}
+
+#logo.clickit #wifi2 {
+	display:block;
+    
+}
+#logo.clickit #wifi3 {
+	display:block;
+    
+}
+
+#logo.clickit #wifi_1_{
+	display:block;
+}
+
+
+#logo.clickit #wifi2_1_{
+	display:block;
+}
+
+
+#logo.clickit #wifi3_1_{
+	display:block;
+}
+
+
+#logo.clickit #wire{
+	fill:white;
+}
+
+@media all and (max-width: 35em){
+    
+    svg {
+	width:300px;
+	height:300px;
+	}
+	
+	#big{
+		display:none;
+	}
+    
+}
+
+
